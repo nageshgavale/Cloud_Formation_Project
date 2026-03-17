@@ -161,6 +161,6 @@ This project showcases end-to-end cloud infrastructure design with **scalability
 
 ## 🏗️ Architecture Diagram
 
-![Architecture](architecture.png)
+
 
 ---
