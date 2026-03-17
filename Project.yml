@@ -338,6 +338,7 @@ Resources:
             yum install docker amazon-cloudwatch-agent -y
             systemctl start docker
             systemctl enable docker
+            hostnamectl set-hostname Docker-server
 
             # Docker container with CloudWatch logs
             docker run -d \
