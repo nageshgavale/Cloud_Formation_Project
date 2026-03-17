@@ -159,4 +159,8 @@ SNS topic sends email notifications for:
 
 This project showcases end-to-end cloud infrastructure design with **scalability, monitoring, and automation**, making it suitable for real-world production environments.
 
+## 🏗️ Architecture Diagram
+
+![Architecture](architecture.png)
+
 ---
